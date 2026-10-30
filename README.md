@@ -78,19 +78,19 @@ I enjoy understanding how things work, solving problems through code and buildin
       <h3>📋 <a href="https://github.com/Joabem1629/Kanban-Project-Manager">Kanban Project Manager</a></h3>
       <p>Personal project management application, developed and maintained as a <b>production project</b>.</p>
       <p><a href="https://github.com/Joabem1629/Kanban-Project-Manager">🔗 View repository</a></p>
-      <!-- Live site: <p><a href="https://YOUR-URL">🌐 Live demo</a></p> -->
+      <p><a href="https://joabem1629.mooo.com/kanban/">🌐 Kanban</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🧠 <a href="https://github.com/Joabem1629/L.AI.la">L.AI.la</a></h3>
       <p>A modular AI ecosystem concept focused on building an <b>extensible assistant platform</b>.</p>
-      <p><a href="https://github.com/Joabem1629/L.AI.la">🔗 View repository</a></p>
+      <!-- <p><a href="https://github.com/Joabem1629/L.AI.la">🔗 View repository</a></p> -->
     </td>
     <td width="50%" valign="top">
       <h3>🧑‍🎓 <a href="https://github.com/Joabem1629/Eigenfaces">Eigenfaces</a></h3>
       <p>Face recognition system exploring <b>linear algebra</b> and <b>image processing</b>.</p>
-      <p><a href="https://github.com/Joabem1629/Eigenfaces">🔗 View repository</a></p>
+      <!-- <p><a href="https://github.com/Joabem1629/Eigenfaces">🔗 View repository</a></p> -->
     </td>
   </tr>
   <tr>
