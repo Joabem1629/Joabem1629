@@ -77,7 +77,6 @@ I enjoy understanding how things work, solving problems through code and buildin
     <td width="50%" valign="top">
       <h3>📋 <a href="https://github.com/Joabem1629/Kanban-Project-Manager">Kanban Project Manager</a></h3>
       <p>Personal project management application, developed and maintained as a <b>production project</b>.</p>
-      <p><a href="https://github.com/Joabem1629/Kanban-Project-Manager">🔗 View repository</a></p>
       <p><a href="https://joabem1629.mooo.com/kanban/">🌐 Kanban</a></p>
     </td>
   </tr>
