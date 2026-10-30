@@ -97,7 +97,8 @@ I enjoy understanding how things work, solving problems through code and buildin
     <td colspan="2" valign="top">
       <h3>🎮 Game Jams</h3>
       <p>Collaborative game development projects involving teamwork, programming and problem-solving.</p>
-      <!-- <p><a href="https://YOUR-ITCH-OR-GITHUB-LINK">🔗 View games</a></p> -->
+      <p><a href="https://maumon69.itch.io/ratatin-2026">🧀 RataTrip</a></p>
+      <p><a href="https://joabem1629.itch.io/fragmentrip-2026">🚀 FragmenTrip</a></p>
     </td>
   </tr>
 </table>
